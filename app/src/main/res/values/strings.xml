@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AccountKeeper</string>
+    <string name="bills_button">Bills</string>
+    <string name="accounts_button">Accounts</string>
+    <string name="summary_button">Summary</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="create_new_account">Create a new Account</string>
+
+    <string-array name="currency_array">
+        <item>HKD</item>
+        <item>CNY</item>
+    </string-array>
+</resources>
